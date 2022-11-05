@@ -72,3 +72,4 @@ uintptr_t FindDMAAddy(HANDLE handle, uintptr_t ptr, std::vector<unsigned int> of
 	}
 	return addr;
 }
+
