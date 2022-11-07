@@ -10,7 +10,9 @@ C - autoshoot
 
 ^ keys are working only when window is on foreground.
 
-S - Change character
+E - refresh character addr
+W - disable character changing assembler patch
+D - Change character
 
 IDS:
 ![image](https://user-images.githubusercontent.com/90666473/176891615-f1638db7-f617-49a0-a6bc-ce4c597c7079.png)
