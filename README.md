@@ -17,6 +17,4 @@ D - Change character
 IDS:
 ![image](https://user-images.githubusercontent.com/90666473/176891615-f1638db7-f617-49a0-a6bc-ce4c597c7079.png)
 
-If you change character like this, you are unable to change character ingame. If you want to change character ingame, you should type "b" while typing character ID. "b" or wrong input will change your character to the one that was before using this feature.
-
-END - close cheat(Restores character selection and disables GOD_MOD)
+https://github.com/AlexeyZayatc/BoshyInternalVer2.0 better to go here...
